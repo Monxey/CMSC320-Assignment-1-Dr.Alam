@@ -7,10 +7,10 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: Data science could be applied to the diagnoses of brain injuries or disease. With a large amount of labeled MRI scans, one could make a model to guess if a patient has
 a certain injury or disease quickly. 
 
-
 Q3: What is the difference between merging and rebasing?
 
-Answer: [Your answer here]
+Answer: Merging pushes together the main branch with another branches commit. Essentially, the child branches contents are copied into the main branch.
+This can lead to file conflicts sometimes. Rebasing replays the edits made in the child branch and saves those changes in the main branch. 
 
 Q3: What skills do you hope to improve during this course?
 
