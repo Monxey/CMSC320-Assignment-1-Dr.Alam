@@ -1,7 +1,13 @@
 Q1: Why might be consider using git?
 
 Answer: To upload backups of our work, version control, and to collaborate with other people.
+
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to the diagnoses of brain injuries or disease. With a large amount of labeled MRI scans, one could make a model to guess if a patient has
 a certain injury or disease quickly. 
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: [Your answer here]
