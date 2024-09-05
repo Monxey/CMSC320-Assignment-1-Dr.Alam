@@ -11,3 +11,7 @@ a certain injury or disease quickly.
 Q3: What is the difference between merging and rebasing?
 
 Answer: [Your answer here]
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: Python proficiency, database management, and data science knowledge
